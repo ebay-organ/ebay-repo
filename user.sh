@@ -6,4 +6,3 @@ jacob
 nso
 job
 samsunmg
-bobby
