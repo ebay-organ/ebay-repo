@@ -5,3 +5,4 @@ sama
 jacob
 nso
 job
+samsunmg
